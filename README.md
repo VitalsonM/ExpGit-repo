@@ -1,3 +1,3 @@
 # Exploring Git
 
-My First Commit.
+My First Commit!
